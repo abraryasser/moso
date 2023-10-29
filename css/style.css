@@ -1,0 +1,272 @@
+/*start nav section*/
+.navbar-brand{
+    font-size: 30px;
+   
+}
+.navbar-nav{
+    font-size: 25px;
+    padding-right: 20px;
+  
+}
+nav{
+    background-color: white;
+    position: fixed !important;
+z-index: 999999999;
+width: 100%;
+}
+
+
+/*end nav section*/
+/*start carsoul section*/
+.carousel-caption{
+    margin-bottom: 180px;
+} 
+.carousel-caption p{
+    font-size: 40px;
+}
+.inputt{
+    margin-top: 100px;
+    border: 3px solid rgb(255, 247, 247);
+    background-color: white;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    border-radius: 15px;
+    
+}
+.inputt input{
+ padding-left: 10px;
+ padding-right: 15px;
+ padding-top: 10px;
+ padding-bottom: 10px;
+ margin-right: 15px;
+}
+.inputt button{
+    background-color: #f65129;
+    color: white;
+    padding: 20px;
+    border: none;
+    border-radius: 10px;
+}
+.fa-circle-arrow-down{
+    font-size: 50px;
+    color:#ffd74f;
+}
+
+/*end carsoul section*/
+/*start story section*/
+.story{
+    margin-top: 70px;
+    margin-bottom: 100px;
+}
+.story span{
+    font-size: 45px;
+    padding-bottom: 25px;
+}
+.story h4{
+    padding-bottom: 25px;
+    padding-top: 15px;
+}
+.img1{
+  
+    border-radius: 50%;
+}
+.img2{
+    margin-left: 30px;
+    border-radius: 50%;
+    margin-top: 40px;
+}
+/*end story section*/
+/*start hours section*/
+.hours{
+    background-image: url(../images/empty-living-room-with-blue-sofa-plants-table-empty-white-wall-background-3d-rendering.jpg);
+height: 500px;
+background-position: center;
+margin-bottom: 100px;
+
+}
+.hours h2{
+    padding-top: 90px;
+    font-size: 45px;
+}
+.hours i{
+font-size: 20px;
+margin-right: 20px;
+}
+.hours span{
+    font-size: 18px;
+}
+.open{
+    border: 3px solid whitesmoke;
+   padding-left: 30px;
+   padding-bottom: 30px;
+   padding-right: 30px;
+    background-color: aliceblue;
+}
+/*end hours section*/
+/*start design section*/
+.design{
+    margin-left: 40px;
+}
+.design span{
+    font-size: 45px;
+    margin-bottom: 30px;
+}
+.design h5{
+    font-size: 15px;
+}
+/*end design section*/
+/*start open section*/
+.wod{
+    padding-right: 30px;
+   border-radius: 25px;
+margin-bottom: 30px;
+}
+.mok{
+    border-radius: 25px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+.open{
+    box-shadow: 2px 2px 2px 2px;
+    margin-top: 70px;
+    padding-left: 60px;
+    padding-right: 50px;
+    border-radius: 30px;
+    border-top: 25px solid #f65129;
+}
+/*end open section*/
+/*start living section*/
+.living img{
+    border-radius: 20px;
+}
+.living{
+    margin-bottom: 80px;
+}
+/*end living section*/
+/*start number section*/
+.page-link{
+    border-radius:50%;
+    background-color: #f65129;
+    color: white;
+    margin-bottom: 250px;
+}
+/*end number section*/
+/*start ask section*/
+.ask{
+    margin-top: 100px;
+margin-left: 80px;
+margin-bottom: 50px;
+}
+
+/*end ask section*/
+/*start inn section*/
+.fir{
+   padding-left: 15px;
+   padding-top: 7px;
+   padding-bottom: 7px;
+   padding-right: 10px;
+}
+.las{
+    padding-left: 15px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-right: 10px;
+    display: inline-block;
+}
+
+.inn{
+    margin-bottom: 80px;
+    box-shadow: 1px 1px 1px 1px;
+   padding-top: 70px;
+   padding-right: 70px;
+   padding-bottom: 110px;
+    padding-left: 70px;
+    background-color:#f9f9f9;
+    border: none;
+    border-radius: 25px;
+}
+.inn button{
+   padding-left: 25px;
+   padding-top: 15px;
+   padding-bottom: 15px;
+   padding-right: 25px;
+   color: white;
+   background-color: #f65129;
+   border-radius: 15px;
+   border: none;
+}
+/*end inn section*/
+/*start store section*/
+.store{
+    margin-left: 30px;
+    box-shadow: 1px 1px 1px 1px;
+padding-left: 70px;
+padding-right: 70px;
+padding-top: 60px;
+padding-bottom: 30px;
+background-color: #ffd74f;
+border-top: 25px solid #f65129;
+border-radius: 25px;
+color: white;
+margin-bottom: 80px;
+}
+.store i{
+color: #f65129;
+}
+.store img{
+    border-radius: 20px;
+    margin-top: 20px;
+}
+/*end store section*/
+/*start avatar section*/
+.avatar img{
+border-radius: 50%;
+margin-top: 20px;
+}
+
+.avatar{
+    margin-bottom: 100px;
+    box-shadow: 1px 1px 1px 1px;
+    background-color:white;
+    border-radius: 15px;
+    padding: 50px;
+    border-bottom: 80px solid #f65129;
+}
+/*end avatar section*/
+/*start write section*/
+.write button{
+    border-radius: 25px;
+    border: none;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: rgb(7, 7, 234);
+    color: white;
+}
+.write{
+    
+    margin-right: 50px;
+    margin: auto;
+}
+/*end write section*/
+/*start footer section*/
+footer{
+    margin-top: 150px;
+    background-color: #212529;
+    height: 400px;
+    color: white;
+    padding-top: 100px;
+    border-radius: 25px;
+}
+.icon{
+    margin-top: 90px;
+margin-left: 120px;
+text-align: center;
+
+}
+.icon i{
+    font-size: 25px;
+}
+
+/*end footer section*/
